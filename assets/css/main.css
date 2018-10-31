@@ -1383,6 +1383,12 @@ input, select, textarea {
 		font-size: 1.25em;
 		letter-spacing: -0.015em;
 	}
+	
+	h7 {
+		font-size: 1.25em;
+		letter-spacing: -0.015em;
+		text-allign: center;
+	}
 
 	@media screen and (max-width: 736px) {
 
